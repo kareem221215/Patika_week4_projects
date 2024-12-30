@@ -88,7 +88,7 @@ In this week, we focused on the following key areas:
 - **Project 3: Patika Library**  
   Implement a Book class with properties such as title, author, page count, and registration date, and create objects using two constructors with the registration date set automatically.
   
-  - **Project 4: Car Class**  
+- **Project 4: Car Class**  
  Create a Car class with properties like brand, model, color, and door count, applying encapsulation to ensure valid door counts and setting invalid values to -1.
 
 - **Project 5: Inheritance**  
