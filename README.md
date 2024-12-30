@@ -52,13 +52,8 @@
 
 
 ## About<!-- Required -->
-This is the fifth project on the second week of Patika+ bootcamp.
-This project demonstrates different types of methods in C#:
+Welcome to the repository for the projects completed in **Week 4** of the bootcamp. This week, we covered a variety of topics and built several key projects to strengthen our skills.
 
-  1. Void Method: Prints song lyrics to the console.
-  2. Integer-Returning Method: Generates a random number and returns the remainder when divided by 2.
-  3. Method with Parameters and Return: Multiplies two integers and returns the result.
-  4. Method with Parameters and No Return: Takes a first and last name and prints a greeting message.
 <!-- 
 * information about the project 
 * 
@@ -66,22 +61,16 @@ This project demonstrates different types of methods in C#:
 -->
 
 
-## How to use this project<!-- Required -->
+## Overview<!-- Required -->
 <!-- 
 * Here you may add information about how 
 * 
 * and why to use this project.
 -->
-1. Clone or Download the Repository:
-   - If you haven't already, clone or download this repository to your local machine.
-2. Open the Project in Visual Studio:
-   - Open Microsoft Visual Studio.
-   - Click on File > Open > Project/Solution and select the solution file (.sln) from the project directory.
-3. Build the Project:
-   - Once the project is open in Visual Studio, click on Build > Build Solution or press Ctrl + Shift + B to compile the code.
-4. Run the Program:
-   - After building, click on Debug > Start Debugging or press F5 to run the program.
-
+In this week, we focused on the following key areas:
+- Object-oriented programming (OOP) concepts
+- Class creation and usage
+- Understanding constructors, methods, and properties
 
 <!--## Demo<!-- Required -->
 <!-- 
@@ -89,6 +78,30 @@ This project demonstrates different types of methods in C#:
 * 
 * It's recommended to use GIFs as they are more dynamic
 -->
+## Projects Included
+- **Project 1:  Creating Our First Class**  
+  Create a Person class to manage student and teacher information, including first name, last name, and date of birth, and print the details of several instances.
+
+- **Project 2: Constructor**  
+  Define a Baby class with birth date, first name, and last name properties, using two constructors to initialize the object and print a message upon creation.
+
+- **Project 3: Patika Library**  
+  Implement a Book class with properties such as title, author, page count, and registration date, and create objects using two constructors with the registration date set automatically.
+  
+  - **Project 4: Car Class**  
+ Create a Car class with properties like brand, model, color, and door count, applying encapsulation to ensure valid door counts and setting invalid values to -1.
+
+- **Project 5: Inheritance**  
+  Design a BasePerson class with shared properties and methods, and derive Student and Teacher classes with specific properties and methods, demonstrating inheritance and method usage.
+
+- **Project 6: Polymorphism**  
+  Develop classes for square, rectangle, and right triangle, inheriting from a base geometric shape class and using polymorphism to calculate and display areas for each shape.
+
+- **Project 7:  Abstraction**  
+ Create a program representing employees with different roles, where each employee type implements an abstract method to display their specific job responsibilities.
+
+- **Project 8:  Closing project**  
+  Build a system for registering phones and computers, using inheritance, encapsulation, polymorphism, and abstraction to handle product creation, display details, and manage user input and selection.
 
 
 <!--## Contents Table<!-- Optional -->
